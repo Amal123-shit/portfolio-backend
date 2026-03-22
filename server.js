@@ -16,7 +16,7 @@ app.use(cors({
   // Allow requests only from your GitHub Pages site
   // Replace with your actual GitHub Pages URL
   origin: [
-    'https://YOUR-GITHUB-USERNAME.github.io',
+    'https://amal123-shit.github.io/My-Portfolio/',
     'http://localhost:3000',
     'http://127.0.0.1:5500'    // VS Code Live Server
   ],
